@@ -1,4 +1,4 @@
-name = "market2"
+name = "market3"
 main = "src/worker.js"
 compatibility_date = "2026-11-23"
 
@@ -9,5 +9,5 @@ binding = "ASSETS"
 [[d1_databases]]
 binding = "DB"
 database_name = "luxury_store_db"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+database_id = "46d8d9b7-bab8-44e2-b460-a4221d6dcccc"
 migrations_dir = "migrations"
